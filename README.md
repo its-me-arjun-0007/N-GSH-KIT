@@ -20,8 +20,6 @@
 
 </p>
 
-
-
 ### Features:
 
 - Obtain Device Information Without Any Permission !
@@ -115,6 +113,7 @@ python3 st.py
 > To run ngrok on termux you need to enable your personal hotspot and cellular network.
 
 </p>
+
 
 
 
