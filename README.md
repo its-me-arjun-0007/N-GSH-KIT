@@ -81,12 +81,8 @@
 
 ```bash
 
-pkg update -y
-pkg upgrade 
-pkg install wget
-pkg install git
-pkg install python
-pkg install openssl
+apt update -y && apt upgrade 
+apt install wget -y && apt install git -y && apt install python -y && apt install openssl -y
 
 git clone https://github.com/its-me-arjun-0007/N-GSH-KIT.git
 cd N-GSH-KIT
@@ -113,6 +109,7 @@ python3 st.py
 > To run ngrok on termux you need to enable your personal hotspot and cellular network.
 
 </p>
+
 
 
 
