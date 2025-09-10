@@ -1,5 +1,5 @@
 <h1 align="center">
-  G4MKR5X53T
+  Next-Gen Social Hacking
 </h1>
 
 <h4 align="center">A Tool With Attractive Capabilities. </h4>
@@ -61,7 +61,7 @@
 
 ### Dependencies
 
-**`GAMKERSET`** requires following programs to run properly -
+**`Next-Gen Social Hacking.`** requires following programs to run properly -
 
 - `php`
 - `python3`
@@ -90,8 +90,8 @@ pkg install git
 pkg install python
 pkg install openssl
 
-git clone https://github.com/gamkers/GAMKERSET-KIT.git
-cd GAMKERSET-KIT
+git clone https://github.com/its-me-arjun-0007/N-GSH-KIT.git
+cd N-GSH-KIT
 bash install.sh
 python3 -m pip install -r requirements.txt
 python3 st.py
@@ -115,4 +115,5 @@ python3 st.py
 > To run ngrok on termux you need to enable your personal hotspot and cellular network.
 
 </p>
+
 
