@@ -20,7 +20,7 @@
 
 </p>
 
-![demo]()
+
 
 ### Features:
 
@@ -115,5 +115,6 @@ python3 st.py
 > To run ngrok on termux you need to enable your personal hotspot and cellular network.
 
 </p>
+
 
 
